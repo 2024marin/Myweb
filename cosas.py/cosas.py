@@ -4,7 +4,7 @@ name = 'mao'
 age = 12
 like = 'cafe'
 
-print(age)
+print("esta es mi edad" ,age)
 
 
 #print('mi nombre es' + name + 'tengo' + str(age) 'me gusta el')
@@ -13,7 +13,7 @@ print(age)
 print(f'hello my name is {name} im {age} and i like so much {like}')
 
 numbers =[1, 2, 3, 4, 5]
-print(numbers)
+print("Los numeros son muy importatnets para las cuentas", numbers)
 
 
 fruits = ['mora', 'orange', 'apple', 'lemons', 'grape']
